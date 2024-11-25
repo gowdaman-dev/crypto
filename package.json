@@ -1,0 +1,21 @@
+{
+  "name": "btcpvtcrack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "ecpair": "^3.0.0-rc.0",
+    "elliptic": "^6.6.1",
+    "keccak": "^3.0.4",
+    "nodemon": "^3.1.7",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
